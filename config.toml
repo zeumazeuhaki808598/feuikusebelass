@@ -1,0 +1,4 @@
+baseURL = "https://bedroomdecor-americana4.vercel.app"
+languageCode = "en-us"
+title = "Bedroom Wall Decor Idea"
+theme = "hugo-theme-minos"
